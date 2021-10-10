@@ -5,8 +5,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
-#stock name lekne
-stock_name='jblb'
+#stock name lekne hora
+stock_name='jblb' 
 url="https://tms35.nepsetms.com.np/tms/me/memberclientorderentry"
 #browser exposes an executable file
 #Through Selenium test we will invoke the executable file which will then #invoke actual browser
